@@ -1,0 +1,5 @@
+QuickStop Credits:
+
+A huge thank you to all the developers of mods that contain items with internal inventories, if you guys didnt keep forgetting quickswapping exists there would have been no need for this mod.
+
+Bonus shout-out to all the all the people who have been using quickswapping exploits on modded servers since before 1.6, somehow even with all your efforts, devs still havent learned.
