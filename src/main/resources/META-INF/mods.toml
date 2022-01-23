@@ -9,7 +9,7 @@ loaderVersion="[36,)" #mandatory This is typically bumped every Minecraft versio
 license="MIT"
 
 # A URL to refer people to when problems occur with this mod
-issueTrackerURL="https://github.com/ace10102/QuickStop" #optional
+issueTrackerURL="https://github.com/ace10102/Swapper-No-Swapping" #optional
 
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]] #mandatory
@@ -46,7 +46,7 @@ A small mod that disables Quick-Swapping in the player inventory as a brute forc
 '''
 
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.quickstop]] #optional
+[[dependencies.noswapping]] #optional
     # the modid of the dependency
     modId="forge" #mandatory
     # Does this dependency have to exist - if not, ordering below must be specified
@@ -59,7 +59,7 @@ A small mod that disables Quick-Swapping in the player inventory as a brute forc
     side="BOTH"
     
 # Here's another dependency
-[[dependencies.quickstop]]
+[[dependencies.noswapping]]
     modId="minecraft"
     mandatory=true
 # This version range declares a minimum of the current minecraft version up to but not including the next major version
